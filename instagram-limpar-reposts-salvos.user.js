@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Instagram — Limpar repostagens e salvos
-// @namespace    https://github.com/enzo/ig-cleaner
+// @namespace    https://github.com/enzofagundz/instagram-repost-cleaner
 // @version      1.0.0
 // @description  Percorre as repostagens de um perfil e remove, post a post, a repostagem e o item salvo.
-// @author       enzo
+// @author       enzofagundz
 // @match        https://www.instagram.com/*
 // @run-at       document-idle
 // @grant        none
