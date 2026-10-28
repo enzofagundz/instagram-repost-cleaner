@@ -1,0 +1,12 @@
+{
+  "name": "ig-repost-cleaner",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Userscript do ViolentMonkey que remove repostagens e itens salvos do Instagram",
+  "scripts": {
+    "test": "node test/selectors.test.js"
+  },
+  "devDependencies": {
+    "jsdom": "^30.1.3"
+  }
+}
